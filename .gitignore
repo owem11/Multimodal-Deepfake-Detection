@@ -1,0 +1,8 @@
+# Ignore datasets and heavy media
+*.mp4
+*.wav
+*.zip
+*.csv
+.env
+.ipynb_checkpoints/
+__pycache__/

@@ -1,0 +1,8 @@
+tensorflow
+torch
+librosa
+opencv-python
+matplotlib
+numpy
+pandas
+scikit-learn

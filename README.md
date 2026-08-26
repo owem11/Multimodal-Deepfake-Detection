@@ -45,7 +45,6 @@ Multimodal-Deepfake-Detection/
 │   └── 05_evaluation_metrics.ipynb          # ROC-AUC curves & confusion matrix
 ├── models/
 │   └── phase1-xception-weights.h5           # Pre-trained XceptionNet model weights
-├── sample_data/                             # Sample media files for inference testing
-├── .gitignore
+├── .gitignore                               # Sample media files for inference testing
 ├── requirements.txt
 └── README.md

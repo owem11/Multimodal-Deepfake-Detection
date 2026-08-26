@@ -1,4 +1,4 @@
-# Bifurcated Multimodal Deepfake Detection Framework
+# Bifurcated Multimodal Deepfake Detection Framework.
 
 An end-to-end deep learning architecture designed to detect cross-modal "half-fakes" (authentic video paired with AI-cloned audio) by combining spatial visual inspection, temporal sequence tracking, and frequency-domain acoustic verification.
 
